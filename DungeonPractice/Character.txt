@@ -1,4 +1,4 @@
 ; PLAYER x y / ENEMY x y / GOAL x y。左上が (0,0)。
 PLAYER 1 1
-//ENEMY 7 5
+;ENEMY 7 5
 GOAL 4 12
