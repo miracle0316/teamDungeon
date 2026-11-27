@@ -1,0 +1,23 @@
+Dungeon Makers 使用画像
+
+Kenney Tiny Dungeon (16 x 16 pixel)
+https://kenney.nl/assets/tiny-dungeon
+License: Creative Commons CC0 (public domain)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+EXE に内包した画像と用途:
+tile_0048.png  床
+tile_0040.png  壁
+tile_0085.png  プレイヤー
+tile_0110.png  敵
+tile_0089.png  未開封の宝箱
+tile_0090.png  開封済みの宝箱
+tile_0020.png  ゴール
+tile_0056.png  ワープ
+tile_0043.png  未作動スイッチ
+tile_0044.png  作動済みスイッチ
+tile_0046.png  閉じた扉
+tile_0010.png  開いた扉
+
+画像は EXE の Windows RCDATA リソースとして内包しています。
+Kenney の画像利用にクレジット表示は必須ではありません。
