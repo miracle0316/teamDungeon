@@ -1,15 +1,12 @@
 ; CHEST x y。左上が (0,0)。
-; CHEST 4 2
+CHEST 19 4
 
 ; 新しいギミックの記述例。先頭の ; を外すと配置されます。
-
 SWITCH A 6 6
 DOOR A 2 7
 
 WARP A 4 1
 WARP A 15 1
 
-; WARP A 3 4
-; WARP A 18 12
-; SWITCH B 5 8
-; DOOR B 10 8
+WARP B 22 6
+WARP B 19 11
